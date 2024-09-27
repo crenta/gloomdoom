@@ -11,8 +11,7 @@ FetchContent_Declare(SFML
 FetchContent_MakeAvailable(SFML)
 
 # Define the executable
-add_executable(CMakeSFMLProject project.cpp
-        PathManager.h)
+add_executable(CMakeSFMLProject project.cpp)
 
 # Link both sfml-graphics and sfml-audio libraries
 target_link_libraries(CMakeSFMLProject PRIVATE sfml-graphics sfml-audio)
