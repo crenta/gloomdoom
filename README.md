@@ -60,7 +60,7 @@ The primary external library used for graphics, window management, event handlin
 
 ## Credits
 
-Crenta & the GloomDoom group from LSU
+Crenta & the Gloom Doom team from LSU.
 
 ## License
 
