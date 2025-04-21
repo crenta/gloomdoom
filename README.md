@@ -1,4 +1,4 @@
-# My Awesome Tower Defense Game
+# Gloom Doom Tower Defense Game
 
 This is a tower defense game built using C++ and the SFML library. Defend your base against waves of incoming enemies by strategically placing towers.
 
